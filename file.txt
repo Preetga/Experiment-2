@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello Teachers
-=======
-Hello Students
->>>>>>> branch_conflict
+Hello Students and Teachers
